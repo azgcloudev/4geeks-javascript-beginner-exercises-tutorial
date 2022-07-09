@@ -1,5 +1,5 @@
 const VERSION = '0.1';
 
-VERSION = '0.9';
+var NEW_VERSION = '0.9';
 
-console.log(VERSION);
+console.log(NEW_VERSION);
